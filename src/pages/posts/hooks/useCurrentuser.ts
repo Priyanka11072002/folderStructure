@@ -1,0 +1,1 @@
+//which will give me  access to current user if current user is avaible
